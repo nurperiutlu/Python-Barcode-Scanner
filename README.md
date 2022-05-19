@@ -1,2 +1,2 @@
 # PythonBarcodeScanner
-The python code scan a barcode from web cam and light the defined led with Aurduino
+Reads barcodes on boxes to count and check whether it is in the right shelf in a warehouse.
